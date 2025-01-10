@@ -1,6 +1,6 @@
  package application;
  import banking.*;
- public class BankingApp {
+ public class eight {
     public static void main(String[] args) {
         try {
             SavingsAccount savings = new SavingsAccount("S1001", "Alice", 5000, 0.03);
